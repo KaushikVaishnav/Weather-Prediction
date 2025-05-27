@@ -3,8 +3,8 @@ A simple and intuitive web application that provides real-time weather updates f
 
 # Weather Prediction Using Machine Learning ☁️🌡️
 
-A Machine Learning-based project that predicts weather conditions such as temperature, humidity, and rainfall using historical weather data. The model is trained on real datasets and can help forecast weather with good accuracy.
----
+This project showcases how machine learning algorithms can be applied to real-world weather data to make accurate predictions. It includes data preprocessing, model training, evaluation, and an optional web interface for users to interact with the system.
+
 
 ## 🚀 Overview
 
